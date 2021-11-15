@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="prefijoNuevo">
+    <file>logo.png</file>
+    <file>reloj_logo.png</file>
+    <file>flecha_Atras.png</file>
+    <file>flecha_Adelante.png</file>
+  </qresource>
+</RCC>
